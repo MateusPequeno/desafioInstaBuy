@@ -1,12 +1,15 @@
-# first
+# Desafio Instabuy Mobile Dev
 
 A new Flutter project.
 
 ## Getting Started
+_Follow the steps below_
+```bash
+$ git clone https://github.com/MateusPequeno/desafioInstaBuy.git
+$ cd desafioInstaBuy
+$ flutter run
+```
 
-git clone https://github.com/MateusPequeno/desafioInstaBuy
-cd desafioInstaBuy
-flutter run
 
 This project is a starting point for a Flutter application.
 
